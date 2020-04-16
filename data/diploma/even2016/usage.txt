@@ -1,0 +1,4 @@
+While running this on even2016:
+a.out 15 2
+a.out 14 3
+a.out 13 4

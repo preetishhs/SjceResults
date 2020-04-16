@@ -1,0 +1,117 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><link href="CSS/demo.css" rel="stylesheet" type="text/css" /><link rel="icon" href="Images/icon.png" /><link href="CSS/SJCEStyleSheet.css" rel="Stylesheet" type="text/css" /><link href="CSS/menustyle.css" rel="stylesheet" type="text/css" />
+    <script src="js/menuscript.js" type="text/javascript"></script>
+    <script src="SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
+    <link href="CSS/menustyle.css" rel="stylesheet" type="text/css" /><link href="CSS/signupStyleSheet.css" rel="stylesheet" type="text/css" /><link href="SpryAssets/SpryMenuBarVertical.css" rel="stylesheet" type="text/css" /><link href="CSS/demos.css" rel="stylesheet" type="text/css" /><title>
+	Result
+</title>
+
+    <script src="file:///C|/Documents and Settings/User/Application Data/Adobe/Dreamweaver CS5.5/en_US/Configuration/Temp/Assets/eam32A.tmp/Scripts/swfobject_modified.js"
+        type="text/javascript"></script>
+    
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /><link rel="stylesheet" type="text/css" href="chrometheme/chromestyle.css" />
+    <script type="text/javascript" src="chromejs/chrome.js">
+
+        /***********************************************
+        * Chrome CSS Drop Down Menu- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+        * This notice MUST stay intact for legal use
+        * Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+        ***********************************************/
+
+    </script>
+    
+    <!--[if lte IE 6]>
+	 <link href="CSS/SJCEStyleSheetIE6.css" rel="stylesheet" type="text/css" /><link rel="stylesheet" type="text/css" href="CSS/IEmenustyle.css" />
+	<![endif]-->
+    <style type="text/css">
+        img, div
+        {
+            behavior: url(iepngfix.htc);
+        }
+    </style>
+</head>
+<body>
+    <form name="aspnetForm" method="post" action="results.aspx?usn=4JC09CS055" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNjE0NTY0MDExD2QWAmYPZBYCAgMPZBYCAgEPZBYGAgEPDxYCHgRUZXh0BQ9NT0hBTkEgS1VNQVJJIE1kZAIDDw8WAh8ABRc0SkMwOUNTMDU1LCBTZW1lc3RlciA6OGRkAgUPPCsADQEADxYEHgtfIURhdGFCb3VuZGceC18hSXRlbUNvdW50AgRkFgJmD2QWCgIBD2QWBmYPZBYCAgEPDxYCHwAFBUNTODExZGQCAQ9kFgICAQ8PFgIfAAUcRElTVFJJQlVURUQgT0JKRUNUIENPTVBVVElOR2RkAgIPZBYCAgEPDxYCHwAFAUFkZAICD2QWBmYPZBYCAgEPDxYCHwAFBUNTODIxZGQCAQ9kFgICAQ8PFgIfAAUiSU5URVJORVQgVEVDSE5PTE9HWSAmIEFQUExJQ0FUSU9OU2RkAgIPZBYCAgEPDxYCHwAFAURkZAIDD2QWBmYPZBYCAgEPDxYCHwAFBUNTODMwZGQCAQ9kFgICAQ8PFgIfAAUMTUFJTiBQUk9KRUNUZGQCAg9kFgICAQ8PFgIfAAUBU2RkAgQPZBYGZg9kFgICAQ8PFgIfAAUFQ1M4NDBkZAIBD2QWAgIBDw8WAh8ABQdTRU1JTkFSZGQCAg9kFgICAQ8PFgIfAAUBQWRkAgUPDxYCHgdWaXNpYmxlaGRkGAEFI2N0bDAwJENvbnRlbnRQbGFjZUhvbGRlcjEkR3JpZFZpZXcxDzwrAAoBCAIBZMQ2QZeTsobFQMK5uoHPXaSqhk1R" />
+
+    <div id="wrapper">
+    </div>
+    <table class="mainbg" cellspacing="0px" cellpadding="0px">
+        <tr>
+            <td align="right" valign="top">
+                <table width="980px" cellpadding="0" cellspacing="0">
+                    <tr>
+                        
+                        <td style="width: 180px; padding-top: 5px; padding-bottom: 5px;">
+                            <div>
+                                <a href="index.aspx">
+                                    <div style="text-align: center">
+                                        <img src="Images/logo.jpg" border="none" height="104" />
+                                    </div>
+                                    <div class="logo_text" style="text-align: center">
+                                        JSS Mahavidyapeetha
+                                        <br />
+                                        Sri Jayachamarajendra College<br />
+                                        of Engineering<br />
+                                    </div>
+                                </a>
+                            </div>
+                        </td>
+                        
+                        <td id="headercontent1" valign="top">
+                            <table cellpadding="0" cellspacing="0">
+                                <tr>
+                                    <td valign="top">
+                                        <div style="float: left">
+                                            <img src="Images/top_menu_bg_left.jpg" />
+                                        </div>
+                                        <div style="float: left">
+                                            <ul class="menu" id="menu">
+                                                <li><a href="index.aspx" class="menulink">Home</a>
+                                                    <ul>
+                                                        <li><a href="#" class="sub">About Us</a>
+                                                            <ul>
+                                                                <li><a href="History.aspx">History</a></li>
+                                                                <li><a href="AbouttheManagement.aspx">About the Management</a></li>
+                                                                <li><a href="VisionandMission.aspx">Vision and Mission</a></li>
+                                                            </ul>
+                                                        </li>
+                                                    </ul>
+                                                </li>
+                                                <li><a href="#" class="menulink">Governance</a>
+                                                    <ul>
+                                                        <li><a href="Governing_Body.pdf" class="menulink1" target="_blank">Governing Body</a></li>
+                                                        <li><a href="AC_Members.pdf" class="menulink1" target="_blank">Academic Council</a></li>
+                                                        <li><a href="BOS.pdf" class="menulink1">Board of Studies</a></li>
+                                                    </ul>
+                                                </li>
+                                                <li><a href="#" class="menulink">Academic</a>
+                                                    <ul>
+
+
+
+                                                        <li><a href="REGULAtion-2012-sjce.pdf" class="menulink1" target="_blank">1. Rules & Regulations</a></li>
+                                                         <li><a href="Rules&Regulations.pdf" class="menulink1" target="_blank">2. Rules & Regulations</a></li>
+                                                        </ul>
+                                                        </li>
+                                                <li><a href="RighttoInformation.aspx" class="menulink">RTI</a> </li>
+                                                <li><a href="TEQIP.aspx" class="menulink">TEQIP</a></li>
+                                                <li><a href="SJCEStep.aspx" class="menulink">SJCE-STEP</a></li>
+                                                <li><a href="ContactInfo.aspx" class="menulink">Contact</a></li>
+                                            </ul>
+                                        </div>
+                                        <div style="float: right">
+                                            <img src="Images/top_menu_bg_right.jpg" alt="" />
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td id="headercontent2" style="float: left; padding-top: 10px;">
+                                        <div>
+                                            <div class="divider">
+                                            </div>
+                                            <div class="heading">
+                                                <a href="JSSMahavidyapeetha.aspx">JSS

@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'ShowcardGothicRegular';
+    src: url('showg.eot');
+    src: url('showg.eot') format('embedded-opentype'),
+         url('showg.woff') format('woff'),
+         url('showg.ttf') format('truetype'),
+         url('showg.svg#ShowcardGothicRegular') format('svg');
+}

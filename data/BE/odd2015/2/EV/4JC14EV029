@@ -1,0 +1,507 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><link href="CSS/demo.css" rel="stylesheet" type="text/css" /><link rel="icon" href="Images/icon.png" /><link href="CSS/SJCEStyleSheet.css" rel="Stylesheet" type="text/css" /><link href="CSS/menustyle.css" rel="stylesheet" type="text/css" />
+    <script src="js/menuscript.js" type="text/javascript"></script>
+    <script src="SpryAssets/SpryMenuBar.js" type="text/javascript"></script>
+    <link href="CSS/menustyle.css" rel="stylesheet" type="text/css" /><link href="CSS/signupStyleSheet.css" rel="stylesheet" type="text/css" /><link href="SpryAssets/SpryMenuBarVertical.css" rel="stylesheet" type="text/css" /><link href="CSS/demos.css" rel="stylesheet" type="text/css" /><title>
+	Result
+</title>
+
+    <script src="file:///C|/Documents and Settings/User/Application Data/Adobe/Dreamweaver CS5.5/en_US/Configuration/Temp/Assets/eam32A.tmp/Scripts/swfobject_modified.js"
+        type="text/javascript"></script>
+    
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /><link rel="stylesheet" type="text/css" href="chrometheme/chromestyle.css" />
+    <script type="text/javascript" src="chromejs/chrome.js">
+
+        /***********************************************
+        * Chrome CSS Drop Down Menu- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+        * This notice MUST stay intact for legal use
+        * Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+        ***********************************************/
+
+    </script>
+    
+    <!--[if lte IE 6]>
+	 <link href="CSS/SJCEStyleSheetIE6.css" rel="stylesheet" type="text/css" /><link rel="stylesheet" type="text/css" href="CSS/IEmenustyle.css" />
+	<![endif]-->
+    <style type="text/css">
+        img, div
+        {
+            behavior: url(iepngfix.htc);
+        }
+    </style>
+</head>
+<body>
+    <form name="aspnetForm" method="post" action="results.aspx?usn=4JC14EV029" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNjE0NTY0MDExD2QWAmYPZBYCAgMPZBYCAgEPZBYGAgEPDxYCHgRUZXh0BQlQQUxMQVZJIE1kZAIDDw8WAh8ABRc0SkMxNEVWMDI5LCBTZW1lc3RlciA6M2RkAgUPPCsADQEADxYEHgtfIURhdGFCb3VuZGceC18hSXRlbUNvdW50AglkFgJmD2QWFAIBD2QWBmYPZBYCAgEPDxYCHwAFBUVWMzEwZGQCAQ9kFgICAQ8PFgIfAAUXRU5WSVJPTk1FTlRBTCBDSEVNSVNUUllkZAICD2QWAgIBDw8WAh8ABQFBZGQCAg9kFgZmD2QWAgIBDw8WAh8ABQVFVjMyMGRkAgEPZBYCAgEPDxYCHwAFCVNVUlZFWUlOR2RkAgIPZBYCAgEPDxYCHwAFAURkZAIDD2QWBmYPZBYCAgEPDxYCHwAFBUVWMzMwZGQCAQ9kFgICAQ8PFgIfAAUhRU5WSVJPTk1FTlRBTCBGTFVJRCBNRUNIQU5JQ1MgLSBJZGQCAg9kFgICAQ8PFgIfAAUBRGRkAgQPZBYGZg9kFgICAQ8PFgIfAAUFRVYzNDBkZAIBD2QWAgIBDw8WAh8ABSVFTEVNRU5UUyBPRiBFTlZJUk9OTUVOVEFMIEVOR0lORUVSSU5HZGQCAg9kFgICAQ8PFgIfAAUBQmRkAgUPZBYGZg9kFgICAQ8PFgIfAAUFRVYzNTBkZAIBD2QWAgIBDw8WAh8ABSZDT05TVFJVQ1RJT04gRU5HSU5FRVJJTkcgQU5EIE1BVEVSSUFMU2RkAgIPZBYCAgEPDxYCHwAFAUNkZAIGD2QWBmYPZBYCAgEPDxYCHwAFBUVWMzZMZGQCAQ9kFgICAQ8PFgIfAAUbRU5WSVJPTk1FTlRBTCBDSEVNSVNUUlkgTEFCZGQCAg9kFgICAQ8PFgIfAAUBU2RkAgcPZBYGZg9kFgICAQ8PFgIfAAUFRVYzN0xkZAIBD2QWAgIBDw8WAh8ABRJTVVJWRVlJTkcgUFJBQ1RJQ0VkZAICD2QWAgIBDw8WAh8ABQFBZGQCCA9kFgZmD2QWAgIBDw8WAh8ABQVIVTMxMGRkAgEPZBYCAgEPDxYCHwAFLUNPTlNUSVRVVElPTiBPRiBJTkRJQSBBTkQgUFJPRkVTU0lPTkFMIEVUSElDU2RkAgIPZBYCAgEPDxYCHwAFAlBQZGQCCQ9kFgZmD2QWAgIBDw8WAh8ABQVNQTMxMGRkAgEPZBYCAgEPDxYCHwAFJ0VOR0cuTUFUSEVNQVRJQ1MtSUlJKE5VTUVSSUNBTCBNRVRIT0RTKWRkAgIPZBYCAgEPDxYCHwAFAUVkZAIKDw8WAh4HVmlzaWJsZWhkZBgBBSNjdGwwMCRDb250ZW50UGxhY2VIb2xkZXIxJEdyaWRWaWV3MQ88KwAKAQgCAWSDb4DcvRb+M+Wp+lWOMK4op4FUVw==" />
+
+<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="63301E89" />
+    <div id="wrapper">
+    </div>
+    <table class="mainbg" cellspacing="0px" cellpadding="0px">
+        <tr>
+            <td align="right" valign="top">
+                <table width="980px" cellpadding="0" cellspacing="0">
+                    <tr>
+                        
+                        <td style="width: 180px; padding-top: 5px; padding-bottom: 5px;">
+                            <div>
+                                <a href="index.aspx">
+                                    <div style="text-align: center">
+                                        <img src="Images/logo.jpg" border="none" height="104" />
+                                    </div>
+                                    <div class="logo_text" style="text-align: center">
+                                        JSS Mahavidyapeetha
+                                        <br />
+                                        Sri Jayachamarajendra College<br />
+                                        of Engineering<br />
+                                    </div>
+                                </a>
+                            </div>
+                        </td>
+                        
+                        <td id="headercontent1" valign="top">
+                            <table cellpadding="0" cellspacing="0">
+                                <tr>
+                                    <td valign="top">
+                                        <div style="float: left">
+                                            <img src="Images/top_menu_bg_left.jpg" />
+                                        </div>
+                                        <div style="float: left">
+                                            <ul class="menu" id="menu">
+                                                <li><a href="index.aspx" class="menulink">Home</a>
+                                                    <ul>
+                                                        <li><a href="#" class="sub">About Us</a>
+                                                            <ul>
+                                                                <li><a href="History.aspx">History</a></li>
+                                                                <li><a href="AbouttheManagement.aspx">About the Management</a></li>
+                                                                <li><a href="VisionandMission.aspx">Vision and Mission</a></li>
+                                                            </ul>
+                                                        </li>
+                                                    </ul>
+                                                </li>
+                                                <li><a href="#" class="menulink">Governance</a>
+                                                    <ul>
+                                                        <li><a href="Governing_Body.pdf" class="menulink1" target="_blank">Governing Body</a></li>
+                                                        <li><a href="AC_Members.pdf" class="menulink1" target="_blank">Academic Council</a></li>
+                                                        <li><a href="BOS.pdf" class="menulink1">Board of Studies</a></li>
+                                                    </ul>
+                                                </li>
+                                                <li><a href="#" class="menulink">Academic</a>
+                                                    <ul>
+
+
+
+                                                        <li><a href="REGULAtion-2012-sjce.pdf" class="menulink1" target="_blank">1. Rules & Regulations</a></li>
+                                                         <li><a href="Rules&Regulations.pdf" class="menulink1" target="_blank">2. Rules & Regulations</a></li>
+                                                        </ul>
+                                                        </li>
+                                                <li><a href="RighttoInformation.aspx" class="menulink">RTI</a> </li>
+                                                <li><a href="TEQIP.aspx" class="menulink">TEQIP</a></li>
+                                                <li><a href="SJCEStep.aspx" class="menulink">SJCE-STEP</a></li>
+                                                <li><a href="ContactInfo.aspx" class="menulink">Contact</a></li>
+                                            </ul>
+                                        </div>
+                                        <div style="float: right">
+                                            <img src="Images/top_menu_bg_right.jpg" alt="" />
+                                        </div>
+                                    </td>
+                                </tr>
+                                <tr>
+                                    <td id="headercontent2" style="float: left; padding-top: 10px;">
+                                        <div>
+                                            <div class="divider">
+                                            </div>
+                                            <div class="heading">
+                                                <a href="JSSMahavidyapeetha.aspx">JSS
+                                                    <br />
+                                                    <span style="font-size: 14px; font-weight: normal;">Mahavidyapeetha</span></a>
+                                            </div>
+                                            <div class="divider">
+                                            </div>
+                                            <div class="heading">
+                                                <a href="#">Swamiji's
+                                                    <br />
+                                                    <span style="font-size: 14px; font-weight: normal;">Message</span></a>
+                                            </div>
+                                            <div class="divider">
+                                            </div>
+                                            <div class="heading">
+                                                <a href="InstituteProfile.aspx">Institute<br />
+                                                    <span style="font-size: 14px; font-weight: normal;">Profile</span></a>
+                                            </div>
+                                            <div class="divider">
+                                            </div>
+                                            <div class="heading">
+                                                <a href="#">Director<br />
+                                                    <span style="font-size: 14px; font-weight: normal;">Message</span></a>
+                                            </div>
+                                            <div class="divider">
+                                            </div>
+                                            <div class="heading">
+                                                <a href="#">Principal<br />
+                                                    <span style="font-size: 14px; font-weight: normal;">Message</span></a>
+                                            </div>
+                                            <div class="divider">
+                                            </div>
+                                            <div class="heading">
+                                                <a href="JssTechnicalEducationSystem.aspx">JSS<br />
+                                                    <span style="font-size: 14px; font-weight: normal;">Technical Education</span></a>
+                                            </div>
+                                        </div>
+                                    </td>
+                                </tr>
+                            </table>
+                        </td>
+                    </tr>
+                </table>
+                <table id="tablealign" cellspacing="0px" cellpadding="0px" style="vertical-align: top;">
+                    <tr>
+                        <td valign="top" style="font: verdana; color: #4F4A4A;">
+                            
+                            <div id="leftside">
+                                
+                                <div class="leftmenu">
+                                    <div>
+                                        <img src="Images/leftsidemenu_top.jpg" />
+                                    </div>
+                                    <div class="leftrepeat">
+                                        <div style="width: 188px; margin-left: 6px; font: verdana; color: #4F4A4A;">
+                                            <ul id="MenuBar1" class="MenuBarVertical">
+                                                <li><a href="AcademicsandServices.aspx">Academic Services</a> </li>
+                                                <li><a href="#">Admissions</a>
+                                                    <ul>
+                                                        <li><a href="UGP.aspx">Under Graduate[UG]</a></li>
+                                                        <li><a href="PGP.aspx">Post Graduate[PG]</a></li></ul>
+                                                    <li><a href="http://www.sjcecampus.org/">Departments</a> </li>
+                                                    <li><a href="PerformanceShowcase.aspx">Performance Showcase</a></li>
+                                                    <li><a href="http://www.sjcecampus.org/index.php/home/library">Library Information Centre</a></li>
+                                                    <li><a href="university.aspx">University Relation</a></li>
+                                                    <li><a href="#">Industry Partnership</a>
+                                                        <ul>
+                                                            <li><a href="industryinstitute.aspx">Industry Institute Partnership</a></li>
+                                                            <li><a href="Industrysponsored.aspx">Industry Sponsored Labs</a></li>
+                                                        </ul>
+                                                    </li>
+                                                    
+                                                    <li><a href="index.aspx">Placement and Training</a>
+                                                        <ul>
+                                                            <li><a href="AboutPlacement.aspx">About Placement</a></li>
+                                                            <li><a href="OurRecruiters.aspx">Our Recruiters</a></li>
+                                                            <li><a href="OtherPlacementInformation.aspx">Other Placement Information</a></li>
+                                                        </ul>
+                                                    </li>
+                                                    <li><a href="mandatory.pdf">Mandatory Disclosure</a></li>
+                                                    <li><a href="#">Research &amp; Development</a>
+                                                        <ul>
+                                                            <li><a href="ResearchCentere.aspx">Research Centres</a></li>
+                                                            <li><a href="researchprojects.pdf">Current Research Projects</a></li>
+                                                            <li><a href="researchpublish.aspx">Research Publications</a></li>
+                                                        </ul>
+                                                    </li>
+                                                    <li><a href="Sports.aspx">Sports</a></li>
+                                                    <li><a href="http://sjcealumni.org/" target="_blank">Alumni</a></li>
+                                                    <li><a href="Amenities.aspx">Amenities</a> </li>
+                                                    <li><a href="ProfessionalBodies.aspx">Professional Bodies</a> </li>
+                                                    <li><a href="http://www.gmail.com">E-mail</a>
+                                                        <li><a href="PACE.pdf" target="_blank">PACE</a> </li>
+														<li><a href="http://sjcecampus.org/smart_id_project/sjce/" target="_blank">Smart Id</a> </li>
+                                            </ul>
+                                        </div>
+                                        
+                                    </div>
+                                    <div>
+                                        <img src="Images/leftsidemenu_bottom.jpg" alt="" />
+                                    </div>
+                                </div>
+                                
+                                <div class="leftmenu" style="margin-top: 10px;">
+                                    <div>
+                                        <img src="Images/leftsidemenu_top.jpg" alt="" />
+                                    </div>
+                                    <div style="width: 188px; margin-left: 8px; font: verdana; color: #4F4A4A;">
+                                        <div>
+                                            <h2>
+                                                Other Activities
+                                            </h2>
+                                            <div style="position: relative; top: -8px; padding-left: 5px;">
+                                                <img src="Images/quickdivider.jpg" alt="Divide" />
+                                            </div>
+                                            <ul style="line-height: 25px;">
+                                                <li><a href="Blog.aspx">Blogs</a></li>
+                                                
+                                                
+                                                <li>><a href="NewsLetter.aspx">Newsletter</a></li>
+                                                <li><a href="EventCalender.aspx">Event Calendar</a></li>
+                                                <li><a href="ImageGallery.aspx">Image Gallery</a></li>
+                                                <li><a href="VideoGallery.aspx">Video Gallery</a></li>
+                                                <li><a href="TelephoneDirectory.aspx">Telephone Directory</a></li>
+                                            </ul>
+                                            <br class="spacer" />
+                                        </div>
+                                    </div>
+                                    <div>
+                                        <img src="Images/leftsidemenu_bottom.jpg" alt="" />
+                                    </div>
+                                </div>
+                                <div id="awards">
+                                    <object id="_slideshowBoxEmbed281065" type="application/x-shockwave-flash" data="Images/awards.swf"
+                                        width="200" height="241">
+                                        <param name="movie" value="Images/awards.swf">
+                                        <param name="allowFullScreen" value="true">
+                                        <param name="flashvars" value="source=sample.xml">
+                                    </object>
+                                </div>
+                            </div>
+                            
+                            <div class="content">
+                                
+    
+    <table width="600px">
+        <tr>
+            <td colspan="3" align="center">
+                <span id="ctl00_ContentPlaceHolder1_lblNAme"><b><font face="VERDANA">PALLAVI M</font></b></span>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3" align="center" valign="top">
+                <span id="ctl00_ContentPlaceHolder1_lblUSN"><i>4JC14EV029, Semester :3</i></span>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3" align="center">
+                <div>
+	<table cellspacing="0" border="0" id="ctl00_ContentPlaceHolder1_GridView1" width="600">
+		<tr bgcolor="#5D7B9D">
+			<th scope="col"><font color="White"><b>Subject Code</b></font></th><th scope="col"><font color="White"><b>Subject Name</b></font></th><th scope="col"><font color="White"><b>Grade</b></font></th>
+		</tr><tr bgcolor="#F7F6F3">
+			<td align="center" height="12" width="100"><font color="#333333">
+                                <span id="ctl00_ContentPlaceHolder1_GridView1_ctl02_lblTitle">EV310</span>
+                            </font></td><td align="left" height="12" width="100"><font color="#333333">
+                                <span id="ctl00_ContentPlaceHolder1_GridView1_ctl02_lblTitle">ENVIRONMENTAL CHEMISTRY</span>
+                            </font></td><td align="center" height="12" width="100"><font color="#333333">
+                                <span id="ctl00_ContentPlaceHolder1_GridView1_ctl02_lblTitle">A</span>
+                            </font></td>
+		</tr><tr bgcolor="White">
+			<td align="center" height="12" width="100"><font color="#284775">
+                                <span id="ctl00_ContentPlaceHolder1_GridView1_ctl03_lblTitle">EV320</span>
+                            </font></td><td align="left" height="12" width="100"><font color="#284775">
+                                <span id="ctl00_ContentPlaceHolder1_GridView1_ctl03_lblTitle">SURVEYING</span>
+                            </font></td><td align="center" height="12" width="100"><font color="#284775">
+                                <span id="ctl00_ContentPlaceHolder1_GridView1_ctl03_lblTitle">D</span>
+                            </font></td>
+		</tr><tr bgcolor="#F7F6F3">
+			<td align="center" height="12" width="100"><font color="#333333">
+                                <span id="ctl00_ContentPlaceHolder1_GridView1_ctl04_lblTitle">EV330</span>
+                            </font></td><td align="left" height="12" width="100"><font color="#333333">
+                                <span id="ctl00_ContentPlaceHolder1_GridView1_ctl04_lblTitle">ENVIRONMENTAL FLUID MECHANICS - I</span>
+                            </font></td><td align="center" height="12" width="100"><font color="#333333">
+                                <span id="ctl00_ContentPlaceHolder1_GridView1_ctl04_lblTitle">D</span>
+                            </font></td>
+		</tr><tr bgcolor="White">
+			<td align="center" height="12" width="100"><font color="#284775">
+                                <span id="ctl00_ContentPlaceHolder1_GridView1_ctl05_lblTitle">EV340</span>
+                            </font></td><td align="left" height="12" width="100"><font color="#284775">
+                                <span id="ctl00_ContentPlaceHolder1_GridView1_ctl05_lblTitle">ELEMENTS OF ENVIRONMENTAL ENGINEERING</span>
+                            </font></td><td align="center" height="12" width="100"><font color="#284775">
+                                <span id="ctl00_ContentPlaceHolder1_GridView1_ctl05_lblTitle">B</span>
+                            </font></td>
+		</tr><tr bgcolor="#F7F6F3">
+			<td align="center" height="12" width="100"><font color="#333333">
+                                <span id="ctl00_ContentPlaceHolder1_GridView1_ctl06_lblTitle">EV350</span>
+                            </font></td><td align="left" height="12" width="100"><font color="#333333">
+                                <span id="ctl00_ContentPlaceHolder1_GridView1_ctl06_lblTitle">CONSTRUCTION ENGINEERING AND MATERIALS</span>
+                            </font></td><td align="center" height="12" width="100"><font color="#333333">
+                                <span id="ctl00_ContentPlaceHolder1_GridView1_ctl06_lblTitle">C</span>
+                            </font></td>
+		</tr><tr bgcolor="White">
+			<td align="center" height="12" width="100"><font color="#284775">
+                                <span id="ctl00_ContentPlaceHolder1_GridView1_ctl07_lblTitle">EV36L</span>
+                            </font></td><td align="left" height="12" width="100"><font color="#284775">
+                                <span id="ctl00_ContentPlaceHolder1_GridView1_ctl07_lblTitle">ENVIRONMENTAL CHEMISTRY LAB</span>
+                            </font></td><td align="center" height="12" width="100"><font color="#284775">
+                                <span id="ctl00_ContentPlaceHolder1_GridView1_ctl07_lblTitle">S</span>
+                            </font></td>
+		</tr><tr bgcolor="#F7F6F3">
+			<td align="center" height="12" width="100"><font color="#333333">
+                                <span id="ctl00_ContentPlaceHolder1_GridView1_ctl08_lblTitle">EV37L</span>
+                            </font></td><td align="left" height="12" width="100"><font color="#333333">
+                                <span id="ctl00_ContentPlaceHolder1_GridView1_ctl08_lblTitle">SURVEYING PRACTICE</span>
+                            </font></td><td align="center" height="12" width="100"><font color="#333333">
+                                <span id="ctl00_ContentPlaceHolder1_GridView1_ctl08_lblTitle">A</span>
+                            </font></td>
+		</tr><tr bgcolor="White">
+			<td align="center" height="12" width="100"><font color="#284775">
+                                <span id="ctl00_ContentPlaceHolder1_GridView1_ctl09_lblTitle">HU310</span>
+                            </font></td><td align="left" height="12" width="100"><font color="#284775">
+                                <span id="ctl00_ContentPlaceHolder1_GridView1_ctl09_lblTitle">CONSTITUTION OF INDIA AND PROFESSIONAL ETHICS</span>
+                            </font></td><td align="center" height="12" width="100"><font color="#284775">
+                                <span id="ctl00_ContentPlaceHolder1_GridView1_ctl09_lblTitle">PP</span>
+                            </font></td>
+		</tr><tr bgcolor="#F7F6F3">
+			<td align="center" height="12" width="100"><font color="#333333">
+                                <span id="ctl00_ContentPlaceHolder1_GridView1_ctl10_lblTitle">MA310</span>
+                            </font></td><td align="left" height="12" width="100"><font color="#333333">
+                                <span id="ctl00_ContentPlaceHolder1_GridView1_ctl10_lblTitle">ENGG.MATHEMATICS-III(NUMERICAL METHODS)</span>
+                            </font></td><td align="center" height="12" width="100"><font color="#333333">
+                                <span id="ctl00_ContentPlaceHolder1_GridView1_ctl10_lblTitle">E</span>
+                            </font></td>
+		</tr>
+	</table>
+</div>
+                
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+                <br />
+                <br />
+                <br />
+                <div id="ctl00_ContentPlaceHolder1_grades" style="padding-left: 40px; font-size: 10px; font-weight: bold">
+                    <b>Grades:</b>
+                    <br />
+                    <table width="600px;">
+                        
+                        <tr>
+                            <td colspan="3">
+                                S = Outstanding (90-100), A = Excellent (75-89 ), B = Very Good (66-74), C = Good
+                                (56-65),<br />
+                                D = Average (50-55), E = Poor (45-49), F = Fail (< 45), PP = Passed( >=50%),
+                                <br />
+                                NP = Not Passed(<50%), I, W, X=Transitional Grades,<br />
+                                MP=Malpractice AB=Absent, NE=Not Eligable, NR=Not Registered, DR=Drop
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </td>
+        </tr>
+    </table>
+    <span id="ctl00_ContentPlaceHolder1_lblmsg"></span>
+
+                            </div>
+                        </td>
+                    </tr>
+                </table>
+                
+                <br />
+                <table id="iefooter" class="footer" cellpadding="0px" cellspacing="0px">
+                    <tr>
+                        <td>
+                            <img src="Images/footer_left_bg.jpg" />
+                        </td>
+                        <td style="background-color: #991122; height: 98px; width: 980px">
+                            <div style="height: 40px;">
+                                <div style="float: left">
+                                    <div>
+                                        <div style="float: left; font-family: Verdana; font-size: 12px;">
+                                            <strong style="color: #ffdd00; font-size: 11px; padding-right: 10px;">SJCE Online
+                                            </strong>
+                                        </div>
+                                        <div style="float: left; padding: 3px;">
+                                            <a href="http://www.facebook.com/" target="_blank">
+                                                <img src="Images/facebook.jpg" style="border: 0" /></a>
+                                        </div>
+                                        <div style="float: left; padding: 3px;">
+                                            <a href="http://twitter.com/" target="_blank">
+                                                <img src="Images/twitter.jpg" style="border: 0" /></a>
+                                        </div>
+                                        <div style="float: left; padding: 3px;">
+                                            <a href="http://in.linkedin.com/" target="_blank">
+                                                <img src="Images/linkedin.jpg" style="border: 0" /></a>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div style="float: right">
+                                    <table class="footermenu" cellspacing="0px">
+                                        <tr id="footerancore">
+                                            <td>
+                                                <a href="index.aspx">Home</a>
+                                            </td>
+                                            <td>
+                                                |
+                                            </td>
+                                            <td>
+                                                <a href="Aboutus.aspx">About Us</a>
+                                            </td>
+                                            <td>
+                                                |
+                                            </td>
+                                            <td>
+                                                <a href="CampusRecruit.aspx">Campus Recruit</a>
+                                            </td>
+                                            <td>
+                                                |
+                                            </td>
+                                            <td>
+                                                <a href="ImageGallery.aspx">Image Gallery</a>
+                                            </td>
+                                            <td>
+                                                |
+                                            </td>
+                                            <td>
+                                                <a href="Testimonials.aspx">Testimonials</a>
+                                            </td>
+                                            <td>
+                                                |
+                                            </td>
+                                            <td>
+                                                <a href="AboutMysore.aspx">About Mysore</a>
+                                            </td>
+                                            <td>
+                                                | <a href="ContactInfo.aspx">Contact Info</a>
+                                            </td>
+                                            <td>
+                                                |
+                                            </td>
+                                            <td>
+                                                <a href="Login.aspx">Login</a>
+                                            </td>
+                                        </tr>
+                                    </table>
+                                </div>
+                            </div>
+                            <div style="height: 40px;">
+                                <div>
+                                    <div style="float: left">
+                                        © 2011, SJCE. All Rights Reserved.
+                                    </div>
+                                    <div style="float: right">
+                                        Web Designed & Maintained By
+                                    </div>
+                                </div>
+                                <br />
+                                <div>
+                                    <div style="float: left" class="footerlinks">
+                                        <a href="#" style="color: #FFFFFF;">Privacy Policy</a> | <a href="#" style="color: #FFFFFF;">
+                                            Terms of use</a>
+                                    </div>
+                                    <div style="float: right" class="footerlinks">
+                                        <a href="http://bridgeitechnologies.com/" target="_blank">Bridge i Technologies</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </td>
+                        <td>
+                            <img src="Images/footer_right_bg.jpg" />
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    </form>
+    <script type="text/javascript">
+        var MenuBar1 = new Spry.Widget.MenuBar("MenuBar1", { imgRight: "SpryAssets/SpryMenuBarRightHover.gif" });
+    </script>
+    <script type="text/javascript">
+        var menu = new menu.dd("menu");
+        menu.init("menu", "menuhover");
+    </script>
+    <script type="text/javascript">
+        swfobject.registerObject("FlashID");
+    </script>
+</body>
+</html>
